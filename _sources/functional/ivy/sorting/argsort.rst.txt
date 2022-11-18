@@ -3,8 +3,6 @@ argsort
 
 .. autofunction:: ivy.functional.ivy.sorting.argsort
 
-.. autofunction:: ivy.array.array_methods.argsort
-
 .. autofunction:: ivy.container.container_methods.argsort
 
 .. autofunction:: ivy.container.container_methods.static_argsort
@@ -35,7 +33,6 @@ argsort
    :caption: argsort
 
    argsort/argsort_functional.rst
-   argsort/argsort_array.rst
    argsort/argsort_container.rst
    argsort/static_argsort_container.rst
 
